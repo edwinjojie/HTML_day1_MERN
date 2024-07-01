@@ -1,0 +1,31 @@
+a{
+    text-decoration: none;
+    color: brown;
+}
+#a1{
+  text-indent: 10%;
+  color: black;
+}
+#a2{
+  text-indent: 20%;
+  color: chartreuse;
+}
+#a3{
+  text-indent: 30%;
+  color: chocolate;
+}
+.c1{
+  text-align: center;
+  text-decoration: dashed;
+}
+.c2{
+  color: crimson;
+  text-indent: 10%;
+}
+.c3{
+  color: aqua;
+  text-indent: 25%;
+  border: 10px solid red;
+  margin: 5% 10% 5% 10%;
+  padding: 5% 5% 5% 5%;
+}
